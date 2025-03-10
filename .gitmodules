@@ -1,0 +1,45 @@
+[submodule "bsim_hw_models/nrf_hw_models"]
+path = themes/hugo-identity-theme
+url = https://github.com/zephyrproject-rtos/nrf_hw_models
+[submodule "modules/crypto/mbedtls"]
+    path = modules/crypto/mbedtls
+     url = https://github.com/Mbed-TLS/mbedtls
+[submodule "modules/crypto/tinycrypt"]
+    path = modules/crypto/tinycrypt
+    url = https://github.com/intel/tinycrypt
+[submodule "modules/debug/mipi-sys-t"]
+    path = modules/debug/mipi-sys-t
+    url = https://github.com/zephyrproject-rtos/mipi-sys-t
+[submodule "modules/debug/percepio"]
+    path = modules/debug/percepio
+    url = https://github.com/percepio/TraceRecorderSource
+[submodule "modules/debug/segger"]
+    path = modules/debug/segger
+    url = https://github.com/zephyrproject-rtos/segger
+[submodule "modules/fs/fatfs"]
+    path = modules/fs/fatfs
+    url = https://github.com/abbrev/fatfs
+[submodule "modules/fs/littlefs"]
+    path = modules/fs/littlefs
+    url = https://github.com/littlefs-project/littlefs
+[submodule "modules/hal/ambiq"]
+    path = modules/hal/ambiq
+    url = https://github.com/AmbiqMicro/ambiqzephyr
+[submodule "modules/hal/atmel"]
+    path = modules/hal/atmel
+    url = https://github.com/atmelcorp/atmel-software-package
+[submodule "modules/hal/cmsis"]
+    path = modules/hal/cmsis
+    url = https://github.com/ARM-software/CMSIS_6
+[submodule "modules/hal/espressif"]
+    path = modules/hal/espressif
+    url = https://github.com/espressif/esp-idf
+[submodule "modules/hal/ethos_u"]
+    path = modules/hal/ethos_u
+    url = https://github.com/nxp-imx/ethos-u-firmware
+[submodule "modules/hal/gigadevice"]
+    path = modules/hal/gigadevice
+    url = https://github.com/example/gigadevice.git
+[submodule "modules/hal/gigadevice"]
+    path = modules/hal/gigadevice
+    url = https://github.com/CommunityGD32Cores/GD32Firmware
