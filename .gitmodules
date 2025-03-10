@@ -53,15 +53,15 @@ url = https://github.com/zephyrproject-rtos/nrf_hw_models
 
 [submodule "nordic"]
     path = modules/hal/nordic
-    url = https://github.com/nordicsemiconductor
+    url = https://github.com/nrfconnect/sdk-zephyr
 
 [submodule "nuvoton"]
     path = modules/hal/nuvoton
-    url = https://github.com/opennuvoton
+    url = https://github.com/OpenNuvoton/MPU-Family
 
 [submodule "quicklogic"]
     path = modules/hal/quicklogic
-    url = https://github.com/QuickLogic-Corp
+    url = https://github.com/QuickLogic-Corp/zephyr
 
 [submodule "renesas"]
     path = modules/hal/renesas
@@ -73,7 +73,7 @@ url = https://github.com/zephyrproject-rtos/nrf_hw_models
 
 [submodule "stm32"]
     path = modules/hal/stm32
-    url = https://github.com/stmicroelectronics
+    url = https://github.com/zephyrproject-rtos/hal_stm32
 
 [submodule "telink"]
     path = modules/hal/telink
@@ -81,7 +81,7 @@ url = https://github.com/zephyrproject-rtos/nrf_hw_models
 
 [submodule "wurthelektronik"]
     path = modules/hal/wurthelektronik
-    url = https://github.com/WurthElektronik
+    url = https://github.com/WurthElektronik/WirelessConnectivity-SDK_STM32
 
 
 [submodule "acpica"]
