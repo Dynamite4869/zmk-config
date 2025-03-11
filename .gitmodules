@@ -12,8 +12,13 @@ url = https://github.com/zephyrproject-rtos/nrf_hw_models
     path = modules/debug/mipi-sys-t
     url = https://github.com/zephyrproject-rtos/mipi-sys-t
 [submodule "modules/debug/percepio"]
-    path = modules/debug/percepio
-    url = https://github.com/percepio/TraceRecorderSource
+  path = modules/debug/percepio
+  url = [submodule "modules/debug/percepio"]
+  path = modules/debug/percepio
+  url = https://github.com/percepio/percepio
+
+
+
 [submodule "modules/debug/segger"]
     path = modules/debug/segger
     url = https://github.com/zephyrproject-rtos/segger
