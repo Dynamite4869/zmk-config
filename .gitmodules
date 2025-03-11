@@ -24,7 +24,7 @@ url = https://github.com/zephyrproject-rtos/nrf_hw_models
     url = https://github.com/zephyrproject-rtos/segger
 [submodule "modules/fs/fatfs"]
     path = modules/fs/fatfs
-    url = https://github.com/abbrev/fatfs
+    url = https://github.com/zephyrproject-rtos/fatfs
 [submodule "modules/fs/littlefs"]
     path = modules/fs/littlefs
     url = https://github.com/littlefs-project/littlefs
