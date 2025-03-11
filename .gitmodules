@@ -30,7 +30,7 @@ url = https://github.com/zephyrproject-rtos/nrf_hw_models
     url = https://github.com/zephyrproject-rtos/littlefs
 [submodule "modules/hal/ambiq"]
     path = modules/hal/ambiq
-    url = https://github.com/AmbiqMicro/ambiqzephyr
+    url = https://github.com/zephyrproject-rtos/hal_ambiq
 [submodule "modules/hal/atmel"]
     path = modules/hal/atmel
     url = https://github.com/zephyrproject-rtos/hal_atmel
