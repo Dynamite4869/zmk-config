@@ -6,7 +6,8 @@ url = https://github.com/zephyrproject-rtos/nrf_hw_models
      url = https://github.com/Mbed-TLS/mbedtls
 [submodule "modules/crypto/tinycrypt"]
     path = modules/crypto/tinycrypt
-    url = https://github.com/intel/tinycrypt
+    url = https://github.com/Dynamite4869/tinycrypt
+
 [submodule "modules/debug/mipi-sys-t"]
     path = modules/debug/mipi-sys-t
     url = https://github.com/zephyrproject-rtos/mipi-sys-t
