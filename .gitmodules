@@ -70,7 +70,7 @@ url = https://github.com/zephyrproject-rtos/nrf_hw_models
 
 [submodule "rpi_pico"]
     path = modules/hal/rpi_pico
-    url = https://github.com/raspberrypi/pico-sdk
+    url = https://github.com/zephyrproject-rtos/hal_rpi_pico 
 
 [submodule "stm32"]
     path = modules/hal/stm32
